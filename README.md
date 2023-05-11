@@ -1,6 +1,6 @@
 # AVL-Tree
 
-AVL Tree implementation which stores information about students at the University of Florida. The nodes on the tree represent individual students, each containing a unique UF-ID number and a name.
+AVL Tree implementation which stores information about students at the University of Florida. The nodes on the tree represent individual students, each containing a unique UF-ID number (key) and a name.
 
 This implementation includes some functions to:
 - Initialize a tree
